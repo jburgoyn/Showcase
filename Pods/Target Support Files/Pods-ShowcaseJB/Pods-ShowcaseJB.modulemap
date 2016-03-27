@@ -1,0 +1,6 @@
+framework module Pods_ShowcaseJB {
+  umbrella header "Pods-ShowcaseJB-umbrella.h"
+
+  export *
+  module * { export * }
+}
